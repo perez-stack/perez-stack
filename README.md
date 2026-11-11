@@ -1,4 +1,4 @@
-##¡Hola! Soy Desarrolladora Web Full Stack en formación 👋
+¡Hola! Soy Desarrolladora Web Full Stack en formación 👋
 
 Web Development | Python | CSS | SQL | AI & Automation
 
