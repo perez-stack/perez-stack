@@ -1,43 +1,83 @@
-¡Hola! Soy Desarrolladora Web Full Stack en formación 👋
 
-Web Development | Python | CSS | SQL | AI & Automation
+<div align="center">
 
-Profesional con más de 15 años de experiencia en gestión de equipos, operaciones retail y optimización de procesos. Actualmente estoy orientando mi carrera profesional hacia el desarrollo de software, especializándome en desarrollo web Full Stack con especial interés en Backend, Python y automatización mediante Inteligencia Artificial.
+# ¡Hola! Soy perez-stack 👋
 
-Combino mi experiencia en entornos empresariales con conocimientos de programación, bases de datos y herramientas de IA para desarrollar soluciones tecnológicas que resuelvan problemas reales y mejoren la eficiencia de los procesos.
+### Full Stack Developer in Training
 
-🎯 Mi objetivo: incorporarme al sector tecnológico como desarrolladora Backend o especialista en automatización, aportando tanto mis conocimientos técnicos como mi experiencia en negocio y optimización operativa.
+**Web Development | Python | SQL | AI & Automation**
 
-🛠️ Tech Stack
+[![GitHub](https://img.shields.io/badge/GitHub-perez--stack-181717?style=for-the-badge&logo=github)](https://github.com/perez-stack)
 
-Frontend
+</div>
 
-HTML5
+---
 
-CSS3 
+## 👩‍💻 Sobre mí
 
-Backend
+Profesional con más de **15 años de experiencia** en gestión de equipos, operaciones retail y optimización de procesos.
 
-Python
+Actualmente estoy orientando mi carrera profesional hacia el **desarrollo de software**, formándome en Desarrollo Web Full Stack.
 
-SQL
+Combino mi experiencia empresarial con conocimientos de programación, bases de datos e Inteligencia Artificial para desarrollar soluciones tecnológicas que resuelvan problemas reales y mejoren la eficiencia de los procesos.
 
-MySQL
+### 🎯 Objetivo profesional
 
-Inteligencia Artificial y automatización
+Incorporarme al sector tecnológico como desarrolladora web, aportando mis conocimientos técnicos, capacidad de resolución de problemas y experiencia en gestión y optimización de procesos.
 
-OpenAI
+---
 
-Google Gemini
+## 🛠️ Tech Stack
 
-Google Antigravity
+### 🌐 Frontend
 
-Prompt Engineering
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-Herramientas de desarrollo
+### ⚙️ Backend & Databases
 
-Git
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
 
-GitHub
+### 🤖 AI & Automation
 
-Visual Studio Code
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+**Prompt Engineering · AI Automation**
+
+### 💻 Development Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📚 Currently Learning
+
+- JavaScript
+- Django
+- Backend Development
+- Database Management
+
+---
+
+## 🚀 My Learning Journey
+
+Este perfil recoge mi evolución como desarrolladora:
+
+- Ejercicios y actividades de formación.
+- Prácticas de programación.
+- Proyectos personales.
+- Aplicaciones orientadas a resolver problemas reales.
+
+---
+
+## 📫 Contact
+
+**GitHub:** [@perez-stack](https://github.com/perez-stack)
+
+*Learning, building and growing every day.* 🚀
+
